@@ -1,0 +1,456 @@
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\Settings.config
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.exe
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.dll.config
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.deps.json
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.runtimeconfig.json
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.dll
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\pos.pdb
+D:\Free Soft\pos5\pos\bin\Debug\Debug\net8.0-windows\ar\pos.resources.dll
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Settings.config
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.exe
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.dll.config
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.deps.json
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.runtimeconfig.json
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.dll
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.pdb
+D:\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ar\pos.resources.dll
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.AssemblyReference.cache
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.AccountManagement.frmChangePass.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.AccountManagement.frmNewUser.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.AccountManagement.frmUserPermissions.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Analysis_Forms.frm_product_analysis.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmPrintAll.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmReportPurcheseView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmReportSalesView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmReportSheeftView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmRptDate.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmHome.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmMain.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.GeneralForms.frmMian2.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SampleAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SampleReport.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SampleView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmAddCustomer.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmAddStore.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmBillList.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCategoryAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCategoryCard.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChangePremium.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChargeRsidual.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCheckout.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChosePrice.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCloseSafe.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCountAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintDetails.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintenanceAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintPay.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintType.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPOS.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPremiumadd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpriceAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPriceIncrease.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPrinter.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchaseAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmProductAdd2.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchase.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchasesBill.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmReviews.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmRsidualAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmShift.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmStaffAdd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmSupplier.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmWithdraw.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Notifications.frmNotification.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmNotify.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Notifications.frmNotityError.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Properties.Resources.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmEditingView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmEditingViewPro.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmPremiumPayEnd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmPremiumView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecodsPay.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordPremiumPay.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordsPayEnd.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordsView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmRegisterS.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmRsidualView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmStaffRecord.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraKitchen.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraPrintA4.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraReport1.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmCheckDate.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmLogin.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmLogout.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmSettingPOS.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmSettings.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmTrialTime.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Test.test.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucDatailsBill.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucMaintenance.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucNotification.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucProduct.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucSaleReport.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucShowPrice.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucStore.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmBlackout.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmCategoryView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmDetails.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmDetailsProView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmGraphicalinterFace.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmMaintenanceView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmNotificationCenter.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmProductView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmpurchaseView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmQustion.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmSafe.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmShortcomings.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmStaffView.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.frmMain.ar.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmCategoryView.ar.resources
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.GenerateResource.cache
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.AssemblyInfoInputs.cache
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.AssemblyInfo.cs
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.CoreCompileInputs.cache
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\ar\pos.resources.dll
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.Up2Date
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.dll
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\refint\pos.dll
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.pdb
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\pos.genruntimeconfig.cache
+C:\Users\Aokiji\Desktop\pos5\pos\obj\Debug\net8.0-windows\ref\pos.dll
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.exe
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\Settings\Settings.config
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.dll.config
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.deps.json
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.runtimeconfig.json
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.dll
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\pos.pdb
+C:\Users\Aokiji\Desktop\pos5\pos\bin\Debug\net8.0-windows\ar\pos.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.exe
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Settings\Settings.config
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.dll.config
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.deps.json
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.runtimeconfig.json
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pos.pdb
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ar\pos.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraCharts.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Charts.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.CodeParser.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Data.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Data.Desktop.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.DataAccess.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.DataAccess.v24.2.UI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.DataVisualization.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Diagram.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Drawing.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraGauges.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Images.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Map.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Mvvm.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Office.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Pdf.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Pdf.v24.2.Drawing.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.PivotGrid.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Printing.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraReports.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.RichEdit.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.RichEdit.v24.2.Export.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.Core.Desktop.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Sparkline.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.SpellChecker.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Spreadsheet.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraTreeMap.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.TreeMap.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Utils.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Utils.v24.2.UI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraNavBar.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraWizard.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraCharts.v24.2.Extensions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraCharts.v24.2.UI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraCharts.v24.2.Wizard.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraDiagram.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraDialogs.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Dialogs.v24.2.Core.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraGantt.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraGauges.v24.2.Presets.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraGauges.v24.2.Win.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraGrid.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraMap.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraBars.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraEditors.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraLayout.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraPdfViewer.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraPivotGrid.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraPrinting.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraReports.v24.2.Extensions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraRichEdit.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.Extensions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.Extensions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraScheduler.v24.2.Reporting.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraSpellChecker.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraSpreadsheet.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraTreeList.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraTreeMap.v24.2.UI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.XtraVerticalGrid.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\DevExpress.Xpo.v24.2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Chart.Base.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Chart.Windows.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Core.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Data.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.DataSource.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Grid.Grouping.Windows.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Grid.Windows.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.GridCommon.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Grouping.Base.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.SfDataGrid.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.SfInput.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.SfListView.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.SfSmithChart.WinForms.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Shared.Base.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Shared.Windows.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.SpellChecker.Base.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Tools.Base.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Syncfusion.Tools.Windows.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.CodeDom.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Management.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.ServiceModel.NetFramingBase.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.AssemblyReference.cache
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Analysis_Forms.frm_product_analysis.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmPrintAll.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmReportPurcheseView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmReportSalesView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmReports.frmReportSheeftView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmRptDate.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmHome.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmMain.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.GeneralForms.frmMian2.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SampleAdd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SampleReport.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SampleView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChangePremium.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChargeRsidual.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmChosePrice.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintDetails.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintenanceAdd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintPay.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmMaintType.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPrinter.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchaseAdd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmProductAdd2.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchase.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmpurchasesBill.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmWithdraw.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmBillList.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCategoryAdd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCategoryCard.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCheckout.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmCloseSafe.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPOS.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPremiumadd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmRsidualAdd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmAddStore.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmPriceIncrease.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmProductView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmSupplier.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Notifications.frmNotification.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmNotify.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Notifications.frmNotityError.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Properties.Resources.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmEditingView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmEditingViewPro.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmPremiumPayEnd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmPremiumView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecodsPay.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordPremiumPay.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordsPayEnd.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmRecordsView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmRegisterS.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmRsidualView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Records.frmStaffRecord.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraKitchen.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraPrintA4.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Reports.XtraReport1.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Settings.frmAddPersone.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmAppSetting.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Settings.frmGeneralSettings.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Settings.frmMessageBox.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.AccountManagement.frmNewUser.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Settings.frmProfile.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Settings.frmStaff.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.AccountManagement.frmUserPermissions.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmCheckDate.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmLogin.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmLogout.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmSettingPOS.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.frmSettings1.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.SystemApp.frmTrialTime.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Test.test.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Test.test2.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Test.UserControl1.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucDatailsBill.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucMaintenance.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucNotification.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucProduct2.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucSaleReport.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.UserControls.ucShowPrice.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.ucStore.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmBlackout.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmCategoryView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmDetailsProView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmGraphicalinterFace.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmMaintenanceView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmNotificationCenter.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmpurchaseView.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmQustion.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmSafe.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmShortcomings.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.frmMain.ar.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.View.frmCategoryView.ar.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.GenerateResource.cache
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.GeneratedMSBuildEditorConfig.editorconfig
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.AssemblyInfoInputs.cache
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.AssemblyInfo.cs
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.CoreCompileInputs.cache
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\ar\pos.resources.dll
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.csproj.Up2Date
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.dll
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\refint\pos.dll
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.pdb
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.genruntimeconfig.cache
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\ref\pos.dll
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.Stor.frmAll_Bills.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.POS.frmPayWays.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.Stor.frmAddParties.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.Finance.frmFinancialTransactions.resources
+D:\pos\Free Soft\pos5\pos\obj\Debug\net8.0-windows\pos.Model.Finance.frmFinancialCharge.resources
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\zxing.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+D:\pos\Free Soft\pos5\pos\bin\Debug\net8.0-windows\Zen.Barcode.Core.dll

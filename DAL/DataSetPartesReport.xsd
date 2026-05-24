@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetPartesReport" targetNamespace="http://tempuri.org/DataSetPartesReport.xsd" xmlns:mstns="http://tempuri.org/DataSetPartesReport.xsd" xmlns="http://tempuri.org/DataSetPartesReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetPartesReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetPartesReport" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetPartesReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="parteisRepert" msprop:Generator_RowClassName="parteisRepertRow" msprop:Generator_RowEvHandlerName="parteisRepertRowChangeEventHandler" msprop:Generator_RowDeletedName="parteisRepertRowDeleted" msprop:Generator_RowDeletingName="parteisRepertRowDeleting" msprop:Generator_RowEvArgName="parteisRepertRowChangeEvent" msprop:Generator_TablePropName="parteisRepert" msprop:Generator_RowChangedName="parteisRepertRowChanged" msprop:Generator_UserTableName="parteisRepert" msprop:Generator_RowChangingName="parteisRepertRowChanging" msprop:Generator_TableClassName="parteisRepertDataTable" msprop:Generator_TableVarName="tableparteisRepert">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dateFrom" msprop:Generator_UserColumnName="dateFrom" msprop:Generator_ColumnPropNameInTable="dateFromColumn" msprop:Generator_ColumnPropNameInRow="dateFrom" msprop:Generator_ColumnVarNameInTable="columndateFrom" type="xs:string" minOccurs="0" />
+              <xs:element name="dateTo" msprop:Generator_UserColumnName="dateTo" msprop:Generator_ColumnPropNameInTable="dateToColumn" msprop:Generator_ColumnPropNameInRow="dateTo" msprop:Generator_ColumnVarNameInTable="columndateTo" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareType" msprop:Generator_UserColumnName="transfareType" msprop:Generator_ColumnPropNameInTable="transfareTypeColumn" msprop:Generator_ColumnPropNameInRow="transfareType" msprop:Generator_ColumnVarNameInTable="columntransfareType" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareDescreption" msprop:Generator_UserColumnName="transfareDescreption" msprop:Generator_ColumnPropNameInTable="transfareDescreptionColumn" msprop:Generator_ColumnPropNameInRow="transfareDescreption" msprop:Generator_ColumnVarNameInTable="columntransfareDescreption" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareValue" msprop:Generator_UserColumnName="transfareValue" msprop:Generator_ColumnPropNameInTable="transfareValueColumn" msprop:Generator_ColumnPropNameInRow="transfareValue" msprop:Generator_ColumnVarNameInTable="columntransfareValue" type="xs:string" minOccurs="0" />
+              <xs:element name="transfarePrevious_Debit_Balance" msprop:Generator_UserColumnName="transfarePrevious_Debit_Balance" msprop:Generator_ColumnPropNameInTable="transfarePrevious_Debit_BalanceColumn" msprop:Generator_ColumnPropNameInRow="transfarePrevious_Debit_Balance" msprop:Generator_ColumnVarNameInTable="columntransfarePrevious_Debit_Balance" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareCurrent_Debit_Balance" msprop:Generator_UserColumnName="transfareCurrent_Debit_Balance" msprop:Generator_ColumnPropNameInTable="transfareCurrent_Debit_BalanceColumn" msprop:Generator_ColumnPropNameInRow="transfareCurrent_Debit_Balance" msprop:Generator_ColumnVarNameInTable="columntransfareCurrent_Debit_Balance" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareDate" msprop:Generator_UserColumnName="transfareDate" msprop:Generator_ColumnPropNameInTable="transfareDateColumn" msprop:Generator_ColumnPropNameInRow="transfareDate" msprop:Generator_ColumnVarNameInTable="columntransfareDate" type="xs:string" minOccurs="0" />
+              <xs:element name="transfareTime" msprop:Generator_UserColumnName="transfareTime" msprop:Generator_ColumnPropNameInTable="transfareTimeColumn" msprop:Generator_ColumnPropNameInRow="transfareTime" msprop:Generator_ColumnVarNameInTable="columntransfareTime" type="xs:string" minOccurs="0" />
+              <xs:element name="previous_Debit_Balance" msprop:Generator_UserColumnName="previous_Debit_Balance" msprop:Generator_ColumnPropNameInTable="previous_Debit_BalanceColumn" msprop:Generator_ColumnPropNameInRow="previous_Debit_Balance" msprop:Generator_ColumnVarNameInTable="columnprevious_Debit_Balance" type="xs:string" minOccurs="0" />
+              <xs:element name="current_Debit_Balance" msprop:Generator_UserColumnName="current_Debit_Balance" msprop:Generator_ColumnPropNameInTable="current_Debit_BalanceColumn" msprop:Generator_ColumnPropNameInRow="current_Debit_Balance" msprop:Generator_ColumnVarNameInTable="columncurrent_Debit_Balance" type="xs:string" minOccurs="0" />
+              <xs:element name="rowNum" msprop:Generator_UserColumnName="rowNum" msprop:Generator_ColumnPropNameInTable="rowNumColumn" msprop:Generator_ColumnPropNameInRow="rowNum" msprop:Generator_ColumnVarNameInTable="columnrowNum" type="xs:string" minOccurs="0" />
+              <xs:element name="partyName" msprop:Generator_UserColumnName="partyName" msprop:Generator_ColumnPropNameInTable="partyNameColumn" msprop:Generator_ColumnPropNameInRow="partyName" msprop:Generator_ColumnVarNameInTable="columnpartyName" type="xs:string" minOccurs="0" />
+              <xs:element name="paied" msprop:Generator_ColumnPropNameInRow="paied" msprop:Generator_ColumnPropNameInTable="paiedColumn" msprop:Generator_ColumnVarNameInTable="columnpaied" msprop:Generator_UserColumnName="paied" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

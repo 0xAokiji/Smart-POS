@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Analysis Forms\frm_product_analysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classes\panels\MyFlowLayoutPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Classes\panels\MyPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Classes\SmoothPanel BottomCorner.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Classes\SmoothPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Classes\SmoothPanelTopConrner.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="frmReports\frmPrintAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports\frmReportPurcheseView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports\frmReportSalesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports\frmReportSheeftView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports\frmRptDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\MainForm\frmFinancialReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\MainForm\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\MainForm\frmMian2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\MainForm\frmPersonalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmChooseTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmMaintananceRecordes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmMaintenaceAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmTechnicalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmBillList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmCatecorySearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmpurchasesBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmShowAllReturns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmShowBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmShowReturns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmShowStors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmOwnerUnlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmShowBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\SampleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\SampleReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralForms\SampleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Finance\frmCloseSafe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Finance\frmEditeCarge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Finance\frmFinancialCharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Finance\frmFinancialTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmMaintenanceAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmWithdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmBillName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmCategoryAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmCategoryCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmOrderCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmPartesSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmPayWays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\POS\frmShowProductImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmAddParties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmAddStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmAll_Bills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmCategoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmCategoryViewMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmPartiesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmPriceIncrease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmProductAdd2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmQtyChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmSearchProductToAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Stor\frmSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="myPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Reports\XtraOrderCard.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Reports\XtraPartiesReport.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Reports\XtraPaymentReceipt.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Reports\XtraReportCutomerA5.cs">
+      <SubType>XtraReport</SubType>
+    </Compile>
+    <Compile Update="Settings\frmAddPersone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmAppSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmEnterpasskey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmGeneralSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmRequestAdvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmRestoreBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmShowResetProsses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings\frmUserPermissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\FormInishialSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\frmLogout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\frmResetUserPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\frmSettingPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SystemApp\frmTrialTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Test\test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Test\test2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Test\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\saveLogingIcon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucDatailsBill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucMaintenance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucNotification.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucProduct2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucShowPrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucStore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\frmBlackout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmDetailsProView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmGraphicalinterFace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\Maintenance\frmMaintenanceView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmNotificationCenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmpurchaseView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmQustion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmShortcomings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
